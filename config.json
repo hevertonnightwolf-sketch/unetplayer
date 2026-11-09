@@ -1,7 +1,40 @@
 {
-  "active_dns": "http://dgaura.top",
-  "backup_dns": "http://aurasmt.com",
   "app_status": "online",
   "notice_message": "Bem-vindo ao Unetplay!",
-  "min_version": 1
+  "min_version": 1,
+  "default_server": "aura",
+  "active_dns": "http://dgaura.top",
+  "backup_dns": "http://aurasmt.com",
+  "servers": [
+    {
+      "id": "aura",
+      "name": "Aura",
+      "active_dns": "http://dgaura.top",
+      "backup_dns": "http://aurasmt.com"
+    },
+    {
+      "id": "playtv",
+      "name": "PlayTV",
+      "active_dns": "http://geralplaytop.online",
+      "backup_dns": ""
+    },
+    {
+      "id": "ltc",
+      "name": "LTC",
+      "active_dns": "http://22.bm3w.site",
+      "backup_dns": ""
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "active_dns": "http://pregadoresdapaz.click",
+      "backup_dns": ""
+    },
+    {
+      "id": "brasiltv",
+      "name": "Brasil TV",
+      "active_dns": "http://dns1.apontamento.shop",
+      "backup_dns": ""
+    }
+  ]
 }
