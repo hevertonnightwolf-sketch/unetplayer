@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/configs/main/app-release.apk",
+  "notes": "Correção de layout para celular e telas pequenas, novos botões compactos e estabilidade.",
+  "force": false
+}
