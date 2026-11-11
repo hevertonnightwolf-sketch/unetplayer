@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/hevertonnightwolf-sketch/unetplayer/releases/download/1.00/UnetPlay_TV_Plus_1.1.apk",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/hevertonnightwolf-sketch/unetplayer/releases/download/1.00/UnetPlay_TV_Plus_1.2.apk",
   "notes": "Correção de layout para celular e telas pequenas, novos botões compactos e estabilidade.",
   "force": false
 }
