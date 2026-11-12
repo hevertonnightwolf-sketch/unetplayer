@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/hevertonnightwolf-sketch/unetplayer/releases/download/1.00/UnetPlay_TV_Plus_1.3.apk",
-  "notes": "Correção de layout para celular e telas pequenas, novos botões compactos e estabilidade.",
+  "versionCode": 4,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/hevertonnightwolf-sketch/unetplayer/releases/download/1.00/UnetPlay_TV_Plus_1.5.apk",
+  "notes": "NOVIDADES DA ATUALIZAÇÃO\n\n• Nova Busca Geral: pesquise canais, filmes e séries em um só lugar.\n• Grade Rápida de Canais: letras grandes e alto contraste (na TV ao vivo, segure OK por 1s para abrir, ▶ para categorias e segure OK no canal para favoritar ★).\n• Reconexão Inteligente: aviso de queda só após 20s sem sinal.\n• Celular e Telas Pequenas: layout ajustado, novos botões compactos e mais estabilidade.",
   "force": false
 }
